@@ -223,7 +223,7 @@ class Machine:
 class SinglePointExtractor:
     """Documentation!"""
 
-    minimum_required = ('surface', 'urban', 'dominant_river_tracing',
+    minimum_required = ('surface', 'urban', 'aging_parameters',
                         'optical_properties', 'fire', 'clm', 'fates', 'GSWP3',
                         'topography', 'lightning', 'aerosol_deposition')
 

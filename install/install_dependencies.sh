@@ -9,7 +9,7 @@ DOT_CIME_REMOTE=https://github.com/MetOs-UiO/dotcime.git
 DOT_CIME_SHA=30a2b73996a951277c874d9f28ea82a00427ffb2
 
 # Set paths
-DIR_CTSM=$HOME/ctsm
+DIR_CTSM=$HOME/ctsm_input_testing
 DIR_CODE=$(dirname $(readlink -f "$0"))/..
 DIR_ENV=$DIR_CODE/env
 
